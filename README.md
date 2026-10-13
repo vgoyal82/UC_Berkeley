@@ -3,7 +3,7 @@
 Exploratory analysis of the UCI "In-Vehicle Coupon Recommendation" survey data to identify
 what distinguishes drivers who accept a coupon from those who reject it.
 
-**Notebook:** 
+**Notebook:** prompt.ipynb
 
 ## Data
 12,684 survey responses describing a driving scenario (destination, time, weather, passenger),
