@@ -37,6 +37,6 @@ Coupons acceptance percentage share- CoffeeHouese - 31.5%, Resturant(<20) - 22%,
 - **Prefer nearby venues** on the driver's route, and use ___ expiration for coffee offers.
 
 ## Next Steps
-- Build a predictive model (logistic regression or decision tree) to score each driver's likelihood of accepting.
-- Extend the analysis to the remaining coupon types.
-- Validate with real redemption data, since survey responses reflect stated intent.
+-Develop a machine learning model that analyzes all of the factors in detail to understand what influences drivers' decisions to accept coupons.
+-Predictive analysis requires historical data to achieve higher accuracy, so I would like to work on building a historical dataset.
+-Once the historical dataset is built and the model is developed, I would like to compare the model's predictions against actual survey data as it becomes available.
