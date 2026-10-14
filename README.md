@@ -32,9 +32,9 @@ Coupons acceptance percentage share- CoffeeHouese - 31.5%, Resturant(<20) - 22%,
 
 
 ## Recommendations
-- **Target coupons by past behavior:** send bar and coffee coupons to drivers who already visit those venues.
-- **Time the offers:** send Coffee House coupons during ___; avoid ___.
-- **Prefer nearby venues** on the driver's route, and use ___ expiration for coffee offers.
+-*Target coupons by past behavior:* Send bar and coffee coupons to drivers who already visit those venues regularly.
+-*Time the offers:* Send Coffee House coupons early in the day, since drivers appear to prefer coffee before noon.
+-*Prefer nearby venues:* Drivers accept more coupons for restaurants within a 25-minute drive, so limit coupons for venues farther away from the driver. 
 
 ## Next Steps
 -Develop a machine learning model that analyzes all of the factors in detail to understand what influences drivers' decisions to accept coupons.
